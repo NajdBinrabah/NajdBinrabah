@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NajdBinrabah/NajdBinrabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## While you’re here, why not let [John M. Coetzee](https://www.nobelprize.org/prizes/literature/2003/summary/) take you to a "peculiar headspace"?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+https://github.com/user-attachments/assets/c20d97c2-e23b-485c-aa98-03beff2b9bcc
+
+<br>
+
+**J. M. Coetzee's speech at the Nobel Banquet, 10 December 2003.**  
+*Sveriges Television AB (production)*  
+Copyright © Sveriges Television AB 2003
+
+</div>
