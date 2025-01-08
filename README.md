@@ -1,3 +1,5 @@
+![Header](assets/autumn.jpg)
+
 <div align="center">
 
 <hr>
@@ -13,5 +15,11 @@ https://github.com/user-attachments/assets/c20d97c2-e23b-485c-aa98-03beff2b9bcc
 **J. M. Coetzee's speech at the Nobel Banquet, 10 December 2003.**  
 *Sveriges Television AB (production)*  
 Copyright © Sveriges Television AB 2003
+
+<hr>
+
+#### If you’re wondering, this speech always leaves me caught up in a moment like:
+
+![Headspace](https://media.giphy.com/media/cBKMTJGAE8y2Y/giphy.gif)
 
 </div>
