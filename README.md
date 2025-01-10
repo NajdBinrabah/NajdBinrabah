@@ -12,7 +12,7 @@
 
 <div align="left">
 
-A **Data Scientist** chasing the AI rabbit 🐇, armed with a **B.Sc. in Management Information Systems** earned while hopping between rabbit holes.
+A **Data Scientist** chasing the [AI rabbit 🐇](https://www.gutenberg.org/cache/epub/11/pg11-images.html), armed with a **B.Sc. in Management Information Systems** earned while hopping between rabbit holes.
 
 I’m more of a model destroyer than a builder, like a kid smashing sandcastles, always chasing the thrill of building one that finally stands unshaken.
 
