@@ -28,7 +28,7 @@ I’m more of a model destroyer than a builder, like a kid smashing sandcastles,
 
 <div align="left">
 
-#### ML / DL
+### ML / DL
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
@@ -56,7 +56,7 @@ I’m more of a model destroyer than a builder, like a kid smashing sandcastles,
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
 </p>
 
-#### Other
+### Other
 <p>
   <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
