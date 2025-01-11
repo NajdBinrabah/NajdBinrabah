@@ -3,7 +3,7 @@
 # Hello, World! 👋🏻 I'm Najd
 
 <p>
-  <a href="https://linkedin.com/in/najd-binrabah-801331213" target="_blank"><img src="assets/linkedin-icon.png" alt="LinkedIn" width="80" height="80"></a><a href="https://github.com/NajdBinrabah" target="_blank"><img src="assets/github-icon.png" alt="GitHub" width="80" height="80"></a><a href="https://www.kaggle.com/najdbinrabah" target="_blank"><img src="assets/kaggle-icon.png" alt="Kaggle" width="80" height="80"></a><a href="https://najdbinrabah.github.io" target="_blank"><img src="assets/globe-icon.png" alt="Website" width="80" height="80"></a>
+  <a href="https://linkedin.com/in/najd-binrabah-801331213" target="_blank"><img src="assets/linkedin-icon.png" alt="LinkedIn" width="80" height="80"></a><a href="https://github.com/NajdBinrabah" target="_blank"><img src="assets/github-icon.png" alt="GitHub" width="80" height="80"></a><a href="https://www.kaggle.com/najdbinrabah" target="_blank"><img src="assets/kaggle-icon.png" alt="Kaggle" width="80" height="80"></a><a 
 </p>
 
 </div>
