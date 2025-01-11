@@ -14,7 +14,7 @@
 
 A **Data Scientist** chasing the AI Rabbit 🐇, armed with a **B.Sc. in Management Information Systems** earned while hopping between rabbit holes.
 
-I’m more of a model destroyer than a builder, like a kid smashing sandcastles, always chasing the thrill of building one that finally stands unshaken.
+I’m more of a model destroyer than a builder, like a kid smashing sandcastles, always chasing the thrill of building one that finally stands unshaken
 
 </div>
 
