@@ -95,7 +95,7 @@ Copyright © Sveriges Television AB 2003
 
 <br>
 
-#### If you’re wondering, this speech always leaves me caught up in a moment like:
+### If you’re wondering, this speech always leaves me caught up in a moment like:
 
 ![Headspace](https://media.giphy.com/media/cBKMTJGAE8y2Y/giphy.gif)
 
