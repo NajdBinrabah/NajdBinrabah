@@ -63,6 +63,7 @@ I’m more of a model destroyer than a builder, like a kid smashing sandcastles,
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Alteryx-016BB5?style=for-the-badge" alt="Alteryx">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office Suite">
 </p>
 
@@ -79,7 +80,16 @@ I’m more of a model destroyer than a builder, like a kid smashing sandcastles,
 
 <br>
 
-## While you’re here, why not let [John M. Coetzee](https://www.nobelprize.org/prizes/literature/2003/summary/) take you to a "peculiar headspace"?
+## While you’re here, why not let [John M. Coetzee](https://www.nobelprize.org/prizes/literature/2003/coetzee/facts/) take you to a *"peculiar headspace"*?
+
+<br>
+
+<div align="center">
+
+>  <em>“Mommy, Mommy, I won a prize!“</em>  
+>  <strong>– J. M. Coetzee</strong>
+
+</div>
 
 <br>
 
