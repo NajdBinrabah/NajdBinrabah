@@ -86,7 +86,7 @@ I’m more of a model destroyer than a builder, like a kid smashing sandcastles,
 
 <div align="center">
 
->  <em>“Mommy, Mommy, I won a prize!“</em>  
+>  <em>“And for whom, anyway, do we do the things that lead to Nobel Prizes if not for our mothers?“</em>  
 >  <strong>– J. M. Coetzee</strong>
 
 </div>
